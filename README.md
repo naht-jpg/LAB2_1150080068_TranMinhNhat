@@ -31,10 +31,11 @@ LAB2_1150080068_TranMinhNhat/
 ├── SQL/
 │   ├── 01_Tao_CSDL.sql           # Tạo CSDL LAB2_MaHoaHienDai và các bảng
 │   ├── 02_Tao_Tai_Khoan_SQL.sql  # Tạo login lab2_user và cấp quyền
-│   └── 03_Kiem_Tra_Du_Lieu.sql   # Kiểm tra dữ liệu app_users, crypto_history
+│   ├── 03_Kiem_Tra_Du_Lieu.sql   # Kiểm tra dữ liệu app_users, crypto_history
+│   └── database.sql              # script database đầy đủ
+│
 ├── LAB2_Python/
 │   └── aes_cbc_gui.py            # AES-256-CBC, giao diện Tkinter (bài nâng cao 02)
-├── images/                       # Ảnh kết quả thực hiện
 └── README.md
 ```
 
